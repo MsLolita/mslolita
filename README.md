@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2226BFF7&lines=Subs+to+Web3+Enjoyer+Club)](https://git.io/typing-svg)
-
-[![Channel 🥰](https://img.shields.io/badge/Web3_Enjoyer_|_Subscribe_🥰-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/web3_enjoyer_club) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A13AFF&random=false&width=435&lines=Subs+to+Web3+Enjoyer+Club)](https://git.io/typing-svg)
+[![Channel 🥰](https://img.shields.io/badge/Web3_Enjoyer_|_Subscribe_🥰-5B00FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/web3_enjoyer_club) 
 
 
 ### Donations: 
