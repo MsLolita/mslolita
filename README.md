@@ -3,11 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A13AFF&random=false&width=435&lines=Subs+to+Web3+Enjoyer+Club)](https://git.io/typing-svg)
 [![Channel 🥰](https://img.shields.io/badge/Web3_Enjoyer_|_Subscribe_🥰-5B00FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/web3_enjoyer_club) 
 
-
-### Donations: 
-  - Metamask: 0x000007c73a94f8582ef95396918dcd04f806cdd8
-  - Solana:
-
 <!--
 **MsLolita/mslolita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
